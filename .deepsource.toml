@@ -5,7 +5,7 @@ name = "dockerfile"
 enabled = true
 
   [analyzers.meta]
-  dockerfile_paths = [
+  dockerfile_path = [
 	"DockerFile",
 	"dockerfiles/Dockerfile"
 ]
